@@ -1,6 +1,6 @@
 #iniclude <stdio>
 
 int main() {
-	printf("hello git")
+	printf("hello intel")
 	return 0;	
 }
