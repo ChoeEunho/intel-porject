@@ -1,6 +1,6 @@
 #iniclude <stdio>
 
 int main() {
-	printf("hello intel")
+	printf("hello KCCI")
 	return 0;	
 }
